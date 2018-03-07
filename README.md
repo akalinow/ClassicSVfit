@@ -2,7 +2,7 @@
 Latest version of SVfit_standalone algorithm
 
 # Installation instructions
-The SVfitPerformanceStudies package has been developed and tested with CMSSW 7_6_x.
+The SVfitPerformanceStudies package has been developed and tested with CMSSW 9_4_4.
 It depends on the following other packages:
 	TauAnalysis/SVfitTF
 
